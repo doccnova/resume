@@ -11,4 +11,4 @@ https://codeberg.org/doccnova/serenity-installer - Кастомный скрип
 
 https://codeberg.org/doccnova/serene-hyprland - Конфигурация для Wayland-композитора Hyprland
 
-https://codeberg.org/doccnova/serene-mango - Конфигурация для Wayland-композитора MangoWC
+https://codeberg.org/doccnova/serene-mango - Конфигурация для Wayland-композитора MangoWC. Не готов, фокус на Hyprland
