@@ -11,4 +11,9 @@ https://codeberg.org/doccnova/serenity-installer - Кастомный скрип
 
 https://codeberg.org/doccnova/serene-hyprland - Конфигурация для Wayland-композитора Hyprland
 
-https://codeberg.org/doccnova/serene-mango - Конфигурация для Wayland-композитора MangoWC. Не готов, фокус на Hyprland
+https://codeberg.org/doccnova/serene-niri - Конфигурация для Wayland-композитора Niri. Готовится, фокус на Hyprland
+
+Опыт:
+Продвинутый уровень: С++ и графический фреймворк Qt
+Средний уровень: Lua и JavaScript
+Начальный уровень: Python (+PySide, реализация Qt для Python), C и Ruby
